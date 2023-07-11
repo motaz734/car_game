@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "791424694473",
+    "project_id": "d-car-racing-unity-game",
+    "storage_bucket": "d-car-racing-unity-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791424694473:android:878dc95fae7662ba093518",
+        "android_client_info": {
+          "package_name": "com.TKH.highway_overtaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791424694473-3hu9ghfdtj06d1r0dqmq08r6ba0f5l6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhSRvJ1j1m3tiJWq6ggIOJ5YqsWO-IQgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791424694473-3hu9ghfdtj06d1r0dqmq08r6ba0f5l6d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "791424694473-8que9vbkv8e0b7d4ukhnnu6i0aqrcubl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TKH.speedracing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

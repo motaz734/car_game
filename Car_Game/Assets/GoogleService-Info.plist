@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>791424694473-8que9vbkv8e0b7d4ukhnnu6i0aqrcubl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.791424694473-8que9vbkv8e0b7d4ukhnnu6i0aqrcubl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDkydq8D26mMgPRvd8KeZhDu9Puyrp1ZvU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>791424694473</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.TKH.speedracing</string>
+	<key>PROJECT_ID</key>
+	<string>d-car-racing-unity-game</string>
+	<key>STORAGE_BUCKET</key>
+	<string>d-car-racing-unity-game.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:791424694473:ios:0ee1a5645d0482d3093518</string>
+</dict>
+</plist>
